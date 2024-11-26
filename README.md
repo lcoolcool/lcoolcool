@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi :)
+
+[![lcoolcool's github stats](https://github-readme-stats.vercel.app/api?username=lcoolcool&count_private=true&show_icons=true&theme=dracula)](https://github.com/lcoolcool/lcoolcool)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcoolcool&layout=compact&theme=dracula)](https://github.com/lcoolcool/lcoolcool)
 
 <!--
 **lcoolcool/lcoolcool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
